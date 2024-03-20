@@ -1,0 +1,7 @@
+### Factorial
+
+Factorial are presented in form of n!
+
+5! = 5 * 4 * 3 * 2 * 1 = 120
+
+The function must be recursive.
