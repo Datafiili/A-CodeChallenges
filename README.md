@@ -1,5 +1,5 @@
 # A-CodeChallenges
-Hi! Here is some coding challenges for beginners to learn common consepts of programming.
+Hello! Here is some coding challenges for beginners to learn common consepts of programming.
 Challenges are divided based on category thay you learn from them.
 You are expected to use a coding enviroment where you can write and read text.
 Check the links to see full challenge.
@@ -22,6 +22,13 @@ Check the links to see full challenge.
 | Challenge | Difficulty |
 | --- | --- |
 | Factorial | Easy |
+| Divisible by nine? | Easy |
+
+### Strings
+| Challenge | Difficulty |
+| --- | --- |
+| Palindrome | normal |
+
 
 ### Games (or game themed things)
 | Challenge | Difficulty |
