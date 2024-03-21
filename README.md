@@ -28,7 +28,7 @@ Check the links to see full challenge.
 | Challenge | Difficulty |
 | --- | --- |
 | Palindrome | normal |
-
+| Finnish vowel harmony | Easy |
 
 ### Games (or game themed things)
 | Challenge | Difficulty |
