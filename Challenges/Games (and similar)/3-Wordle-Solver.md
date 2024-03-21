@@ -7,3 +7,5 @@ Link to New York Times Wordle: https://www.nytimes.com/games/wordle/index.html
 Link to an English wordlist: https://github.com/dwyl/english-words
 
 Write a code that can solve a Wordle challenge. User can type in a word to begin with and the current round. Program will return a possible word. 
+
+If your program works correctly, you should never lose a wordle game.
