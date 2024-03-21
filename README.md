@@ -21,14 +21,14 @@ Check the links to see full challenge.
 ### Recursion
 | Challenge | Difficulty |
 | --- | --- |
-| Factorial | Easy |
-| Divisible by nine? | Easy |
+| 1. Factorial | Easy |
+| 2. Divisible by nine? | Easy |
 
 ### Strings
 | Challenge | Difficulty |
 | --- | --- |
-| Palindrome | normal |
-| Finnish vowel harmony | Easy |
+| 1. Finnish vowel harmony | Easy |
+| 2. Palindrome | normal |
 
 ### Games (or game themed things)
 | Challenge | Difficulty |
