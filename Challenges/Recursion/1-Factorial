@@ -2,6 +2,12 @@
 
 Factorial are presented in form of n!
 
+Variable n must be a natural number.
+
+Factorial means that we multiply all natural numbers that are smaller than it onto it.
+
 5! = 5 * 4 * 3 * 2 * 1 = 120
+
+7! = 7 * 6 * 5 * 4 * 3 * 2 * 1 = 5040
 
 The function must be recursive.

@@ -9,9 +9,9 @@ Check the links to see full challenge.
 ### Conversion
 | Challenge | Difficulty |
 | --- | --- |
-| 1. Minutes to hours converter | Very easy |
-| 2. Mapping function | Normal |
-| 3. Roman numberal converter | Normal |
+| [1. Minutes to hours converter](https://github.com/Datafiili/A-CodeChallenges/blob/main/Challenges/Conversion/1-Minutes-to-hours-converter.md) | Very easy |
+| [2. Mapping function](https://github.com/Datafiili/A-CodeChallenges/blob/main/Challenges/Conversion/2-Mapping-function.md) | Normal |
+| [3. Roman numberal converter](https://github.com/Datafiili/A-CodeChallenges/blob/main/Challenges/Conversion/3-Roman-Numeral-Converter.md) | Normal |
 
 ### Random numbers
 | Challenge | Difficulty |

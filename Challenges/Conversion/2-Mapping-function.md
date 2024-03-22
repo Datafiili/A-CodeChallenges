@@ -11,10 +11,10 @@ The function must include following parameters:
 The function must return the new value.
 
 Example:
-Value: 8
-Min value: 2
-Max value: 10
-New min value: 30
-New max value: 50
+- Value: 8
+- Min value: 2
+- Max value: 10
+- New min value: 30
+- New max value: 50
 
-New value: 45
+- New value: 45
