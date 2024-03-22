@@ -1,4 +1,4 @@
-### Minutes to hours converter
+# Minutes to hours converter
 
 Write two functions.
 

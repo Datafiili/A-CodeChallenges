@@ -1,4 +1,4 @@
-### Mapping function
+# Mapping function
 
 Write a function that will return a remapped value.
 The function must include following parameters:

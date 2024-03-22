@@ -1,6 +1,6 @@
-### Password generator
+# Password generator
 
-Write a function that will return a password.
+Write a function that will return a password that it created.
 
 The function must have following parameters:
 - Lenght (int)

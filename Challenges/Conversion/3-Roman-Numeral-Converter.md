@@ -1,10 +1,10 @@
-### Roman numberal converter
+# Roman numberal converter
 
 Write two functions.
 First functions will convert arabic numbers to Roman numerals.
 Second function will do vise versa.
 
-# Rules of Roman numerals:
+## Rules of Roman numerals:
 
 Each arabic number has a counterpart in Roman numerals.
 | Arabic | Roman |

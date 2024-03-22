@@ -1,4 +1,4 @@
-### Quess the number
+# Quess the number
 
 Write a game that selects a random number between 1 and 1000.
 

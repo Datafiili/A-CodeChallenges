@@ -1,4 +1,4 @@
-### Wordle Solver
+# Wordle Solver
 
 Wordle is played in a way where user tries to guess the word.
 Program will tell you which letters are correct but in wrong positions and what are in correct positions.

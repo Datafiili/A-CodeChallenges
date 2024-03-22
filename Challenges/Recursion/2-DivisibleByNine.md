@@ -1,4 +1,4 @@
-### Divisible by nine?
+# Divisible by nine?
 
 All numbers that digits sum is divisible by 9 are divisible by 9.
 If you reapeat this process till number is less than 10, then you can easily check if the number is divisible by 9 without division.
