@@ -27,8 +27,8 @@ Check the links to see full challenge.
 ### Strings
 | Challenge | Difficulty |
 | --- | --- |
-| 1. Finnish vowel harmony | Easy |
-| 2. Palindrome | normal |
+| [1. Finnish vowel harmony](https://github.com/Datafiili/A-CodeChallenges/blob/main/Challenges/Strings/1-FinnishVowelHarmony.md) | Easy |
+| [2. Palindrome](https://github.com/Datafiili/A-CodeChallenges/blob/main/Challenges/Strings/2-Palindrome.md) | normal |
 
 ### Games (or game themed things)
 | Challenge | Difficulty |
