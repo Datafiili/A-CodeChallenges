@@ -1,6 +1,6 @@
 # Minutes to hours converter
 
-Write two functions.
+Write two functions:
 
 First function returns minutes converted to hours.
 

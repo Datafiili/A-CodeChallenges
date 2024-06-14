@@ -10,4 +10,4 @@ Factorial means that we multiply all natural numbers that are smaller than it on
 
 7! = 7 * 6 * 5 * 4 * 3 * 2 * 1 = 5040
 
-The function must be recursive.
+The function must return the result and be recursive.

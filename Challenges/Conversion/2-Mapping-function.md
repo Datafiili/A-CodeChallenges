@@ -1,6 +1,7 @@
 # Mapping function
 
-Write a function that will return a remapped value.
+Write a function that will return a remapped value. The value must be in same position relative to min and max value.
+
 The function must include following parameters:
 - Value
 - Min value
