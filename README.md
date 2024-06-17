@@ -43,8 +43,8 @@ Check the links to see full challenge.
 ### Sorting algorithms
 | Challenge | Difficulty |
 | --- | --- |
-| [1. Bogosort](https://github.com/Datafiili/A-CodeChallenges/blob/main/Challenges/Sorting_algorithms/1-Bogosort.md) | Easy |
-| 2. Bubble sort | Easy |
+| [1. Bogo sort](https://github.com/Datafiili/A-CodeChallenges/blob/main/Challenges/Sorting_algorithms/1-Bogosort.md) | Easy |
+| [2. Bubble sort](https://github.com/Datafiili/A-CodeChallenges/blob/main/Challenges/Sorting_algorithms/2-BubbleSort.md) | Easy |
 | 3. Insertion sort | Easy |
 | 4. Cocktail sort | Easy |
 | 5. Quick sort | Normal |
